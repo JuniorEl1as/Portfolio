@@ -1,0 +1,16 @@
+.Options-Container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.botoes-menu {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #ffffff75;
+    cursor: pointer;
+}
+
+.botoes-menu:hover {
+    color: #fff;
+}

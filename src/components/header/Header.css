@@ -1,0 +1,31 @@
+.Header-Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    font-size: 16px;
+}
+
+.menu {
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.botaoFaleConosco {
+    width: 140px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #323232;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.botaoFaleConosco:hover {
+    background-color: #fff;
+    color: #323232;
+}
